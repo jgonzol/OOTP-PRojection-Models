@@ -1,4 +1,4 @@
-# OOTP-PRojection-Models
+# OOTP-Projection-Models
 Projecting player performance using Random Forest
 
 Out of the Park Baseball (OOTP) is a simulation baseball game that is great for anybody who loves baseball analytics or baseball roster management.
